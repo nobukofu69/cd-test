@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'Hello GitHub Actions'
+  'Hello GitHub Actionsを変更してみたよ'
 end
